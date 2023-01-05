@@ -1,0 +1,13 @@
+查看已经启动的容器信息：docker ps
+查看所有容器信息，包括停止的: docker ps -a
+进入容器前要先启动，已经停止的容器：
+docker start id或容器名
+docker restart id（不管容器是否启动，直接重启容器）
+进入容器：
+docker exec -it id或name bash
+docker attach id或name（此方式有些操作可能会卡死）
+进入容器后退出：exit （再次进入需start）
+停止正在运行的容器（stop给与一定的关闭时间交由容器自己保存状态，kill直接关闭容器）：
+docker stop id或name
+docker kill id或name （直接关闭容器）
+删除容器实例：docker rm id或name

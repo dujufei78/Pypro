@@ -1,0 +1,16 @@
+拉取远端tmp0411代码到本地
+新建项目文件夹ifbss_mobfile_new
+初始化 git init
+和远程仓库链接 git remote add origin (远端项目地址.git)
+拉取远端tmp0411到本地 git fetch origin tmp0411
+本地创建分支dev并切换到该分支 git checkout –b dev origin/tmp0411
+把远程分支内容拉到本地 git pull origin tmp0411
+
+远端develop代码强制覆盖本地代码
+git fetch --all
+git reset --hard origin/develop
+git pull
+
+回退版本
+Git log
+Git reset --hard id
