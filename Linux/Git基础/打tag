@@ -1,0 +1,24 @@
+打标签
+
+修改代码
+git add .
+git commit-m "fix some bug"
+
+# 打标签的操作发生在我们commit修改到本地仓库之后。v0.0.2为标签名称
+git tag -a v0.0.2  -m "Release version 0.0.2"
+
+# 分享提交标签到远程服务器上
+# –tags参数表示提交所有tag至服务器端，普通的git push origin master操作不会推送标签到服务器端。
+git push origin master
+git push origin --tags
+
+# 切换到已有的tag
+git tag --list  // 查看已有tag列表
+git checkout [tag/branch/commit]  // 切换到指定tag/branch/commit都是此命令
+
+删除标签的命令
+git tag -d v0.0.2
+
+删除远端服务器的标签
+
+git push origin :refs/tags/v0.0.1
