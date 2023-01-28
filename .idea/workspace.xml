@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bf5b457-b632-47ea-952c-be44cc30531b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Linux/Git基础/打tag" afterDir="false" />
+    <list default="true" id="4bf5b457-b632-47ea-952c-be44cc30531b" name="Default Changelist" comment="&quot;增加git/打tag文档&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linux/Git基础/git命令大全" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/第三部分 数据库和缓存（46题）.py" beforeDir="false" afterPath="$PROJECT_DIR$/面试/第三部分 数据库和缓存（46题）.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,46 +26,18 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Linux/Git基础/打tag">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="72">
-                <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>debug</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,15 +46,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/面试/第二部分 网络编程和并发（34题）.py" />
-        <option value="$PROJECT_DIR$/面试/第三部分 数据库和缓存（46题）.py" />
         <option value="$PROJECT_DIR$/面试/第四部分 前端、框架和其他（155题）.py" />
         <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/1.表结构语句​​​​​​​.py" />
         <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/1.表结构语句​​​​​​​" />
         <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/2.题目（无答案，答案在最后）" />
         <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/3.标准答案" />
         <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/4.自己做的答案" />
-        <option value="$PROJECT_DIR$/面试/第一部分 Python基础篇（80题）.py" />
-        <option value="$PROJECT_DIR$/面试/__init__.py" />
         <option value="$PROJECT_DIR$/Linux/linux基础/Linux命令大全" />
         <option value="$PROJECT_DIR$/Linux/docker基础/docker命令大全" />
         <option value="$PROJECT_DIR$/Linux/Git基础/git命令大全" />
@@ -91,7 +60,6 @@
         <option value="$PROJECT_DIR$/Python基础/第三方模块/configparser模块.py" />
         <option value="$PROJECT_DIR$/Python基础/第三方模块/configparser模块/test.ini" />
         <option value="$PROJECT_DIR$/Python基础/第三方模块/quene模块.py" />
-        <option value="$PROJECT_DIR$/Python基础/第三方模块/Threading模块.py" />
         <option value="$PROJECT_DIR$/Python基础/第三方模块/subprocess模块.py" />
         <option value="$PROJECT_DIR$/Python基础/lua语言基础/菜鸟练习.py" />
         <option value="$PROJECT_DIR$/Python基础/lua语言基础/菜鸟练习.lua" />
@@ -101,6 +69,17 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Linux/Git基础/aaa.txt" />
         <option value="$PROJECT_DIR$/Linux/Git基础/打tag" />
+        <option value="$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本" />
+        <option value="$PROJECT_DIR$/面试/第一部分 Python基础篇（80题）.py" />
+        <option value="$PROJECT_DIR$/Python基础/第三方模块/Threading模块.py" />
+        <option value="$PROJECT_DIR$/面试/第三部分 数据库和缓存（46题）.py" />
+        <option value="$PROJECT_DIR$/面试/__init__.py" />
+        <option value="$PROJECT_DIR$/Frontend/htmlpro/test.html" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/models.py" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/__init__.py" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/settings.py" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/admin.py" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/Django基础/Django-Form表单.py" />
       </list>
     </option>
   </component>
@@ -114,40 +93,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="Pypro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pypro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pypro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pypro" type="462c0819:PsiDirectoryNode" />
-              <item name="Linux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pypro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pypro" type="462c0819:PsiDirectoryNode" />
-              <item name="Linux" type="462c0819:PsiDirectoryNode" />
-              <item name="Git基础" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pypro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pypro" type="462c0819:PsiDirectoryNode" />
-              <item name="Linux" type="462c0819:PsiDirectoryNode" />
-              <item name="linux基础" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pypro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pypro" type="462c0819:PsiDirectoryNode" />
-              <item name="网络安全" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pypro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pypro" type="462c0819:PsiDirectoryNode" />
-              <item name="面试" type="462c0819:PsiDirectoryNode" />
+              <item name="Pypro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Pypro" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -157,12 +109,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/算法" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -184,6 +137,35 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/manage.py" />
+      <option name="PARAMETERS" value="runserver 0.0.0.0:8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -195,22 +177,33 @@
       <option name="presentableId" value="Default" />
       <updated>1672883418496</updated>
       <workItem from="1672883420922" duration="4664000" />
-      <workItem from="1672909336231" duration="4890000" />
+      <workItem from="1672909336231" duration="7267000" />
+      <workItem from="1673113280546" duration="6000" />
+      <workItem from="1673194712021" duration="9866000" />
+      <workItem from="1673867793174" duration="776000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;增加git/打tag文档&quot;">
+      <created>1672971798820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672971798820</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9554000" />
+    <option name="totallyTimeSpent" value="22579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.107402034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17053701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42328042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,7 +212,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.505291" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32936507" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4510582" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36243385" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -256,19 +249,34 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;增加git/打tag文档&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;增加git/打tag文档&quot;" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pypro$manage.coverage" NAME="manage Coverage Results" MODIFIED="1673598216394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro/LoginPro" />
+    <SUITE FILE_PATH="coverage/Pypro$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1673005371978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/面试/第二部分 网络编程和并发（34题）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="581">
           <caret line="76" column="21" selection-start-column="2" selection-end-line="76" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/第三部分 数据库和缓存（46题）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="118" column="34" selection-start-column="2" selection-end-line="118" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -308,38 +316,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试/第一部分 Python基础篇（80题）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/docker基础/docker命令大全">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python基础/反射.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/argparse模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -387,30 +367,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/python实现JWT加密.py">
+    <entry file="file://$PROJECT_DIR$/Linux/linux基础/Linux命令大全">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="102" column="32" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
-          <folding>
-            <element signature="e#1979#1989#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="548">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/Threading模块.py">
+    <entry file="file://$PROJECT_DIR$/Linux/Git基础/aaa.txt" />
+    <entry file="file://$PROJECT_DIR$/Linux/Git基础/打tag">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="124" column="13" lean-forward="true" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
-          <folding>
-            <element signature="e#39#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/二分.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="-224">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -426,25 +394,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="36">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/linux基础/Linux命令大全">
+    <entry file="file://$PROJECT_DIR$/面试/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="108">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/Git基础/aaa.txt">
+    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/Threading模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4386">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/第三部分 数据库和缓存（46题）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/第一部分 Python基础篇（80题）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/argparse模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/冒泡算法.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/Git基础/打tag">
+    <entry file="file://$PROJECT_DIR$/算法/快排.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/htmlpro/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="222">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linux/docker基础/docker命令大全">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/二分.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础/python实现JWT加密.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#1970#1980#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/Django-Form表单.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
