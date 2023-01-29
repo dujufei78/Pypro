@@ -2,9 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf5b457-b632-47ea-952c-be44cc30531b" name="Default Changelist" comment="&quot;增加git/打tag文档&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本" beforeDir="false" afterPath="$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/第三部分 数据库和缓存（46题）.py" beforeDir="false" afterPath="$PROJECT_DIR$/面试/第三部分 数据库和缓存（46题）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.idea/LoginPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/templates/login/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/templates/login/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/templates/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/templates/login/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/templates/login/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/js/jquery-3.5.1.min.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +65,28 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-168">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Linux/Git基础/打tag">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,11 +151,10 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -101,10 +162,22 @@
               <item name="Pypro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/Pypro" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
+            <path>
+              <item name="Pypro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Pypro" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Linux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Pypro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Pypro" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Linux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Git基础" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,6 +254,7 @@
       <workItem from="1673113280546" duration="6000" />
       <workItem from="1673194712021" duration="9866000" />
       <workItem from="1673867793174" duration="776000" />
+      <workItem from="1674871425849" duration="726000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;增加git/打tag文档&quot;">
       <created>1672971798820</created>
@@ -193,12 +267,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22579000" />
+    <option name="totallyTimeSpent" value="23305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17053701" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17271408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -375,13 +450,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Linux/Git基础/aaa.txt" />
-    <entry file="file://$PROJECT_DIR$/Linux/Git基础/打tag">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-224">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -389,13 +457,6 @@
             <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -509,6 +570,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linux/Git基础/打tag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
