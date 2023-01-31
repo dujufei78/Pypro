@@ -1,3 +1,5 @@
+import hashlib
+
 from django.shortcuts import render, redirect
 
 # Create your views here.
@@ -5,6 +7,11 @@ from login import models
 from login.form import UserForms, RegisterForms
 from login.models import User
 
+def hash_code(s, salt='mysite'):# 加点盐
+    h = hashlib.sha256()
+    s += salt
+    h.update(s.encode())  # update方法只接收bytes类型
+    return h.hexdigest()
 
 def index(request):
     '''
@@ -51,6 +58,8 @@ def login(request):
             password = login_form.cleaned_data['password']
             try:
                 user = models.User.objects.get(name=username)
+                # 加密写法
+                # if user.password == hash_code(password):
                 if user.password == password:
                     request.session['is_login'] = True
                     request.session['user_id'] = user.id
@@ -99,7 +108,7 @@ def register(request):
                 print(password1)
                 print(password2)
                 print('afdfad')
-                # 创建用户
+                # 创建用户,加密 password=hash_code(password1)
                 User.objects.create(
                     name=username, password=password1,
                     email=email,

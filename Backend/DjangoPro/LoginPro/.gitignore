@@ -1,3 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+
 *.pyc
 __pycache__
 venv
