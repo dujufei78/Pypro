@@ -78,17 +78,27 @@ class Migration(migrations.Migration):
             ],
         ),
         migrations.CreateModel(
+            name='Menus',
+            fields=[
+                ('id', models.AutoField(verbose_name='ID', primary_key=True, serialize=False, auto_created=True)),
+                ('name', models.CharField(max_length=64)),
+                ('url_type', models.SmallIntegerField(default=0, choices=[(0, 'absolute'), (1, 'dynamic')])),
+                ('url_name', models.CharField(max_length=128)),
+            ],
+        ),
+        migrations.CreateModel(
             name='Role',
             fields=[
                 ('id', models.AutoField(verbose_name='ID', primary_key=True, serialize=False, auto_created=True)),
                 ('name', models.CharField(max_length=64, unique=True)),
+                ('menus', models.ManyToManyField(verbose_name='动态菜单', blank=True, to='crm.Menus')),
             ],
         ),
         migrations.CreateModel(
             name='Student',
             fields=[
                 ('id', models.AutoField(verbose_name='ID', primary_key=True, serialize=False, auto_created=True)),
-                ('class_grades', models.ManyToManyField(verbose_name='班级', to='crm.ClassList')),
+                ('class_grades', models.ForeignKey(verbose_name='班级', to='crm.ClassList')),
                 ('customer', models.ForeignKey(verbose_name='客户', to='crm.CustomerInfo')),
             ],
         ),
@@ -110,8 +120,12 @@ class Migration(migrations.Migration):
                 ('id', models.AutoField(verbose_name='ID', primary_key=True, serialize=False, auto_created=True)),
                 ('name', models.CharField(verbose_name='姓名', max_length=64)),
                 ('role', models.ManyToManyField(blank=True, null=True, to='crm.Role')),
-                ('user', models.ForeignKey(to=settings.AUTH_USER_MODEL)),
+                ('user', models.OneToOneField(to=settings.AUTH_USER_MODEL)),
             ],
+        ),
+        migrations.AlterUniqueTogether(
+            name='menus',
+            unique_together=set([('name', 'url_name')]),
         ),
         migrations.AddField(
             model_name='customerinfo',
