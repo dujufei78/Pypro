@@ -3,6 +3,11 @@ import random
 
 
 def bubble_sort(li):
+    '''
+    列表中俩个相邻的数比较大小，如果前边的比后边的大，那么这俩就互换位置
+    时间复杂度：O(n^2)
+    :return:
+    '''
     for i in range(len(li) - 1):
         for j in range(len(li) - i - 1):
             if li[j] > li[j + 1]:

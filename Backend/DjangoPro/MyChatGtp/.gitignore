@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+
+*.pyc
+.idea
+__pycache__
+*venv
+db.sqlite3
+.DS_Store
+
+static

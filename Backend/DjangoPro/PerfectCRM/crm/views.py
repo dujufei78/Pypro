@@ -18,10 +18,9 @@ def acc_login(request):
         if user:
             login(request, user)
             # 如果next有值，就获取next的值，没有就跳转到首页
-            return redirect(request.GET.get('next', '/'))
+            return redirect(request.GET.get('next', '/crm'))
         else:
             error_message = '用户名或者密码错误'
     return render(request, 'login.html', locals())
-
 def acc_logout(request):
     return redirect('/login/')
