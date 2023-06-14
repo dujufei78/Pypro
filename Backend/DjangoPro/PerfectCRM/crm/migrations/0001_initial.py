@@ -119,7 +119,7 @@ class Migration(migrations.Migration):
             fields=[
                 ('id', models.AutoField(verbose_name='ID', primary_key=True, serialize=False, auto_created=True)),
                 ('name', models.CharField(verbose_name='姓名', max_length=64)),
-                ('role', models.ManyToManyField(blank=True, null=True, to='crm.Role')),
+                ('role', models.ManyToManyField(blank=True, to='crm.Role')),
                 ('user', models.OneToOneField(to=settings.AUTH_USER_MODEL)),
             ],
         ),

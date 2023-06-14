@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link href="/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+{#    <link rel="stylesheet" type="text/css" media="all" href="http://path/Bootstrap.css"/>#}
+    <title>Chat Room</title>
+    <style>
+        .chat {
+            position: relative;
+            height: 500px;
+            width: 1000px;
+            margin: auto;
+            background-color: #f7f7f7;
+            border-radius: 5px;
+        }
+
+        .chat-header {
+            position: relative;
+            height: 50px;
+            background-color: #ffffff;
+            border-radius: 5px;
+        }
+
+        .chat-body {
+            position: relative;
+            height: 400px;
+            {#background-color: #ffffff;#}
+            background-color: #f5f8fa;
+            border-radius: 5px;
+        }
+
+        .chat-input {
+            position: relative;
+            height: 50px;
+            background-color: #ffffff;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+<div class="chat">
+    <div class="chat-header">
+        <h1>Welcom To Chat Room!</h1>
+    </div>
+    <div class="chat-body" style="width:100%;overflow-x:hidden">
+        {% for message in chat_list %}
+            <p>{{ message }}</p>
+        {% endfor %}
+    </div>
+
+    {#实时回答问题#}
+    <div class="chat-body">
+        <form action="/chatme/" method="post">
+
+            <div class="form-group">
+                <label for="id_username">输入：(输入quit可清除AI记忆，重新开始聊天。)</label>
+                <input type="text" name='mytext' class="form-control" style="width: 100%" id="id_text"
+                       placeholder="发送消息给AI"
+                       autofocus required>
+            </div>
+
+            <div>
+                <button type="submit" class="btn btn-default" style="background: #10a37f; color: #ffffff;" >Send message to AI</button>
+
+            </div>
+            <br>
+            <div>
+                <text class="form-control" style="width: 100%;height: 500px">
+                    {{ answer }}
+                </text>
+            </div>
+
+        </form>
+    </div>
+
+</div>
+</body>
+</html>

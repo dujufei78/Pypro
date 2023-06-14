@@ -1,0 +1,80 @@
+{% extends 'book/base.html' %}
+{% block title %}图书主页{% endblock %}
+
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9 col-md-offset-2">
+                <a href="/book_add/">
+                    <button class="btn btn-primary add">添加图书</button>
+                </a>
+                <table class="table table-hover">
+                    <thead>
+                    <tr>
+                        <th>编号</th>
+                        <th>书名</th>
+                        <th>出版日期</th>
+                        <th>作者</th>
+                        <th>价钱</th>
+                        <th>出版社</th>
+                        <th>操作</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for book in book_list %}
+                        <tr>
+                            <td>{{ forloop.counter }}</td>
+                            <td>{{ book.title }}</td>
+                            <td>{{ book.publishDdata|date:'Y-m-d' }}</td>
+                            <td>
+                                {% for item in book.authorlist.all %}
+                                    {{ item.name }}
+                                {% endfor %}
+
+                            </td>
+                            <td>{{ book.price }}</td>
+                            <td>{{ book.publish }}</td>
+                            <td>
+                                <a href="/book_del/{{ book.nid }}">
+                                    <button class="btn btn-danger">删除</button>
+                                </a>
+                                {#                                <a href="/edit/{{ book.nid }}"><button class="btn btn-success">编辑</button></a>#}
+                                <a href="/book_edit/?book_id={{ book.nid }}">
+                                    <button class="btn btn-success">编辑</button>
+                                </a>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    {#    分页#}
+    <nav aria-label="Page navigation" class="pull-right">
+        <ul class="pagination">
+            {% if book_list.has_previous %}
+                <li><a href="/book_list?page={{ book_list.previous_page_number }}" aria-label="Previous">上一页</a></li>
+            {% else %}
+                <li class="disabled"><a href="" aria-label="Previous">上一页</a></li>
+            {% endif %}
+
+            {% for index in page_range %}
+                {% if num == index %}
+                    <li class="active"><a href="/book_list?page={{ index }}">{{ index }}</a></li>
+                {% else %}
+                    <li><a href="/book_list?page={{ index }}">{{ index }}</a></li>
+                {% endif %}
+
+            {% endfor %}
+
+
+            {% if book_list.has_next %}
+                <li><a href="/book_list?page={{ book_list.next_page_number }}" aria-label="Previous">下一页</a></li>
+            {% else %}
+                <li class="disabled"><a href="" aria-label="Previous">下一页</a></li>
+            {% endif %}
+        </ul>
+    </nav>
+{% endblock %}

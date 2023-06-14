@@ -1,4 +1,4 @@
-#-*- encoding: utf-8 -*-
+# -*- encoding: utf-8 -*-
 ### 装饰器
 ## 基础写法
 
@@ -68,19 +68,21 @@
 
 ## 带参数的类装饰器
 
-# import time
-#
-# class Decorator:
-#     def __init__(self, func):
-#         self.func = func
-#     def defer_time(self, time_sec):
-#         time.sleep(time_sec)
-#         print('........延迟了%d秒，延迟结束了.......' % time_sec)
-#     def __call__(self, time): # 实际上 5 会被传到这里赋值给time
-#         self.defer_time(time)
-#         self.func()
-#
-# @Decorator
-# def f1():
-#     print('......延迟之后我才执行.........')
-# f1(5)
+import time
+
+
+class Decorator:
+    def __init__(self, func):
+        self.func = func
+    def defer_time(self, time_sec):
+        time.sleep(time_sec)
+        print('........延迟了%d秒，延迟结束了.......' % time_sec)
+    def __call__(self, time): # 实际上 5 会被传到这里赋值给time
+        self.defer_time(time)
+        self.func()
+
+@Decorator
+def f1():
+    print('......延迟之后我才执行.........')
+f1(5)
+

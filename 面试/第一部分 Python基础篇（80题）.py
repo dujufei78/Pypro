@@ -1,14 +1,19 @@
 # #-*- encoding: utf-8 -*-
 
 # 3、Python和Java、PHP、C、C  # 、C++等其他语言的对比？
-#
+    # 编译型语言：c/java/c# ,运行效率快
+    # 解释型语言：python/php，开发快、运行速度慢
+
 # 4、简述解释型和编译型编程语言？
-#
+    # 解释型：便解释便执行
+    # 编译型：编译后再执行
 # 5、Python解释器种类以及特点？
-#
-#
+    # cpython:使用最广泛，c语言开发的，所以叫cPython，命令行里运行的就是cpython
+    # ipython:在cpython基础上增强了交互方式，执行代码功能和cpython一样
+    # pypy
+
 # 6、位和字节的关系？
-#
+    #
 # 7、b、B、KB、MB、GB
 # 的关系？
 #

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <title>Title</title>
+    <style>
+        .left{
+            width: 30%;
+            height: 400px;
+            position: relative;
+        }
+        .right{
+            width: 60%;
+            height: 400px;
+            position: absolute;
+            left: 300px;
+            top: 90px;
+        }
+        .c1{
+            margin-top: 100px;
+        }
+    </style>
+</head>
+<body>
+<hr>
+<div class="c1">
+    <div class="left">
+        <ul>
+            <li><a href="/teacherindex/">老师管理</a></li>
+            <li><a href="/studentindex/">学生管理</a></li>
+            <li><a href="/classindex/">班级管理</a></li>
+        </ul>
+    </div>
+    <div class="right">
+        {% block right %}
+
+        {% endblock %}
+    </div>
+</div>
+</body>
+</html>

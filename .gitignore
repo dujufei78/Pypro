@@ -2,7 +2,10 @@
 ### Python template
 
 *.pyc
+.idea
 __pycache__
-venv
+*venv
 db.sqlite3
 .DS_Store
+.xml
+distribution_map/
