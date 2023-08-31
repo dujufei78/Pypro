@@ -1,56 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bf5b457-b632-47ea-952c-be44cc30531b" name="Default Changelist" comment="&quot;增加git/打tag文档&quot;">
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.idea/LoginPro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/form.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/templates/login/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/templates/login/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/templates/login/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/templates/login/logout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/templates/login/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/js/jquery-3.5.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/static/js/jquery-3.5.1.min.js" afterDir="false" />
+    <list default="true" id="4bf5b457-b632-47ea-952c-be44cc30531b" name="Default Changelist" comment="&quot;python大全/python基础/面向对象&quot;">
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/Cartopy-0.21.1.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/test8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python大全/python基础/python-作用域.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大数据/Numpy-Pro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大数据/Pandas-Pro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大数据/Pandas-Pro/pandas-DateFrame.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大数据/Pandas-Pro/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大数据/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/Leetcode刷题/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/基础算法/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/基础算法/贪心算法-找零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/面试遇见的题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pypro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pypro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/MxShop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/MxShop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/MxShop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/MxShop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/goods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/goods/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/user_operation/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/user_operation/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/grid_pic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/grid_pic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/merged_result/merge_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/merged_result/merge_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/二分.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/基础算法/二分.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/冒泡算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/基础算法/冒泡算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/堆栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/基础算法/堆栈&amp;队列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/快排.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/基础算法/快排.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/贪心算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/基础算法/贪心算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/面试最经典题.py" beforeDir="false" afterPath="$PROJECT_DIR$/面试/面试最经典题.py" afterDir="false" />
     </list>
+    <list id="7ccc429e-a15e-401e-949f-2fdc6796452f" name="&quot;python大全/python基础/面向对象&quot;" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="432" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -67,23 +60,31 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本">
+        <entry file="file://$PROJECT_DIR$/面试/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="36">
+              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Linux/Git基础/打tag">
+        <entry file="file://$PROJECT_DIR$/大数据/Pandas-Pro/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="108">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding>
+                <element signature="e#25#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/大数据/Pandas-Pro/pandas-DateFrame.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
     </leaf>
@@ -92,6 +93,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -99,49 +101,67 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>debug</find>
+      <find>pollu</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/面试/第二部分 网络编程和并发（34题）.py" />
-        <option value="$PROJECT_DIR$/面试/第四部分 前端、框架和其他（155题）.py" />
-        <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/1.表结构语句​​​​​​​.py" />
-        <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/1.表结构语句​​​​​​​" />
-        <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/2.题目（无答案，答案在最后）" />
-        <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/3.标准答案" />
-        <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/4.自己做的答案" />
-        <option value="$PROJECT_DIR$/Linux/linux基础/Linux命令大全" />
-        <option value="$PROJECT_DIR$/Linux/docker基础/docker命令大全" />
-        <option value="$PROJECT_DIR$/Linux/Git基础/git命令大全" />
-        <option value="$PROJECT_DIR$/Python基础/反射.py" />
-        <option value="$PROJECT_DIR$/Python基础/第三方模块/argparse模块.py" />
-        <option value="$PROJECT_DIR$/Python基础/第三方模块/configparser模块.py" />
-        <option value="$PROJECT_DIR$/Python基础/第三方模块/configparser模块/test.ini" />
-        <option value="$PROJECT_DIR$/Python基础/第三方模块/quene模块.py" />
-        <option value="$PROJECT_DIR$/Python基础/第三方模块/subprocess模块.py" />
-        <option value="$PROJECT_DIR$/Python基础/lua语言基础/菜鸟练习.py" />
-        <option value="$PROJECT_DIR$/Python基础/lua语言基础/菜鸟练习.lua" />
-        <option value="$PROJECT_DIR$/Python基础/lua语言基础/中阶练习.lua" />
-        <option value="$PROJECT_DIR$/Python基础/python实现JWT加密.py" />
-        <option value="$PROJECT_DIR$/算法/二分.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Linux/Git基础/aaa.txt" />
-        <option value="$PROJECT_DIR$/Linux/Git基础/打tag" />
-        <option value="$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本" />
-        <option value="$PROJECT_DIR$/面试/第一部分 Python基础篇（80题）.py" />
-        <option value="$PROJECT_DIR$/Python基础/第三方模块/Threading模块.py" />
-        <option value="$PROJECT_DIR$/面试/第三部分 数据库和缓存（46题）.py" />
-        <option value="$PROJECT_DIR$/面试/__init__.py" />
         <option value="$PROJECT_DIR$/Frontend/htmlpro/test.html" />
         <option value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/models.py" />
         <option value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/__init__.py" />
         <option value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/settings.py" />
         <option value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/admin.py" />
         <option value="$PROJECT_DIR$/Backend/DjangoPro/Django基础/Django-Form表单.py" />
+        <option value="$PROJECT_DIR$/Linux/Git基础/打tag" />
+        <option value="$PROJECT_DIR$/Python大全/python基础/python-数据类型.py" />
+        <option value="$PROJECT_DIR$/Python大全/python基础/python-文件操作.py" />
+        <option value="$PROJECT_DIR$/Python大全/python基础/libai.ini" />
+        <option value="$PROJECT_DIR$/Python大全/python进阶/out.txt" />
+        <option value="$PROJECT_DIR$/算法/冒泡算法.py" />
+        <option value="$PROJECT_DIR$/算法/快排.py" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/MyChatGtp/.gitignore" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/PerfectCRM/.gitignore" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/demo.py" />
+        <option value="$PROJECT_DIR$/算法/贪心算法.py" />
+        <option value="$PROJECT_DIR$/算法/图解算法.py" />
+        <option value="$PROJECT_DIR$/算法/图解算法/时间复杂度.py" />
+        <option value="$PROJECT_DIR$/算法/图解算法/test.py" />
+        <option value="$PROJECT_DIR$/算法/图解算法/test2.py" />
+        <option value="$PROJECT_DIR$/Backend/爬虫/爬豆瓣.py" />
+        <option value="$PROJECT_DIR$/Backend/爬虫/wolfvenv/.gitignore" />
+        <option value="$PROJECT_DIR$/Backend/爬虫/.gitignore" />
+        <option value="$PROJECT_DIR$/Python大全/python基础/python-迭代器和生成器.py" />
+        <option value="$PROJECT_DIR$/Python大全/python基础/python-装饰器.py" />
+        <option value="$PROJECT_DIR$/Python大全/python基础/python-面向对象.py" />
+        <option value="$PROJECT_DIR$/算法/图解算法/链表.py" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/算法/图解算法/链表/链表.py" />
+        <option value="$PROJECT_DIR$/面试/面试最经典题.py" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/test3.py" />
+        <option value="$PROJECT_DIR$/面试/第一部分 Python基础篇（80题）.py" />
+        <option value="$PROJECT_DIR$/算法/test2.py" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/BookManage/app01/urls.py" />
+        <option value="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/.gitignore" />
+        <option value="$PROJECT_DIR$/Python大全/python进阶/python-魔法方法.py" />
+        <option value="$PROJECT_DIR$/算法/二分.py" />
+        <option value="$PROJECT_DIR$/Linux/docker基础/docker命令大全" />
+        <option value="$PROJECT_DIR$/算法/test.py" />
+        <option value="$PROJECT_DIR$/算法/堆栈.py" />
+        <option value="$PROJECT_DIR$/算法/堆栈&amp;队列.py" />
+        <option value="$PROJECT_DIR$/面试/__init__.py" />
+        <option value="$PROJECT_DIR$/面试/test.py" />
+        <option value="$PROJECT_DIR$/算法/Leetcode刷题/__init__.py" />
+        <option value="$PROJECT_DIR$/面试/面试遇见的题.py" />
+        <option value="$PROJECT_DIR$/算法/基础算法/贪心算法-找零.py" />
+        <option value="$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/3.标准答案" />
+        <option value="$PROJECT_DIR$/大数据/Pandas-Pro/pandas-DateFrame.ipynb" />
+        <option value="$PROJECT_DIR$/大数据/Pandas-Pro/test.py" />
       </list>
     </option>
   </component>
@@ -149,12 +169,15 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -165,19 +188,24 @@
             <path>
               <item name="Pypro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/Pypro" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Linux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="大数据" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Pypro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/Pypro" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Linux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Git基础" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="大数据" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Numpy-Pro" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Pypro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Pypro" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="大数据" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Pandas-Pro" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,17 +213,28 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/算法" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="DjangoTemplate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Backend/DjangoPro/Django基础" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/算法" />
+      <recent name="$PROJECT_DIR$/Backend/DjangoPro/Django基础" />
+      <recent name="$PROJECT_DIR$/网络安全/防火墙" />
+      <recent name="$PROJECT_DIR$/网络安全/ruh如何上网" />
+      <recent name="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/data" />
+      <recent name="$PROJECT_DIR$/算法/图解算法/链表/双链表" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Python基础/第三方模块/configparser模块" />
+      <recent name="$PROJECT_DIR$/算法/基础算法" />
+      <recent name="$PROJECT_DIR$/算法/图解算法/链表" />
+      <recent name="$PROJECT_DIR$/算法/图解算法" />
+      <recent name="$PROJECT_DIR$/Go基础" />
+      <recent name="$PROJECT_DIR$/Python大全/python基础" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,8 +249,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.贪心算法-找零">
+    <configuration name="贪心算法-找零" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pypro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,14 +258,234 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法/基础算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backend/DjangoPro/LoginPro/manage.py" />
-      <option name="PARAMETERS" value="runserver 0.0.0.0:8000" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/基础算法/贪心算法-找零.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="面试最经典题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试/面试最经典题.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="贪心算法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/贪心算法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="面试最经典题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试/面试最经典题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法/Leetcode刷题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/Leetcode刷题/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python-装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python大全/python基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python大全/python基础/python-装饰器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python-面向对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python大全/python基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python大全/python基础/python-面向对象.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -235,7 +494,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.贪心算法-找零" />
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -245,6 +508,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4bf5b457-b632-47ea-952c-be44cc30531b" name="Default Changelist" comment="" />
+      <changelist id="7ccc429e-a15e-401e-949f-2fdc6796452f" name="&quot;python大全/python基础/面向对象&quot;" comment="" />
       <created>1672883418496</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -255,6 +519,49 @@
       <workItem from="1673194712021" duration="9866000" />
       <workItem from="1673867793174" duration="776000" />
       <workItem from="1674871425849" duration="726000" />
+      <workItem from="1675149453995" duration="4252000" />
+      <workItem from="1675243559859" duration="19000" />
+      <workItem from="1675301777306" duration="629000" />
+      <workItem from="1675672061780" duration="930000" />
+      <workItem from="1675929472035" duration="111000" />
+      <workItem from="1675929600082" duration="122000" />
+      <workItem from="1675929747620" duration="456000" />
+      <workItem from="1676276425951" duration="1187000" />
+      <workItem from="1676431668012" duration="384000" />
+      <workItem from="1676464452625" duration="3067000" />
+      <workItem from="1676623817115" duration="557000" />
+      <workItem from="1677205665688" duration="467000" />
+      <workItem from="1677573748530" duration="636000" />
+      <workItem from="1677635357226" duration="159000" />
+      <workItem from="1677640938255" duration="111000" />
+      <workItem from="1677641144494" duration="279000" />
+      <workItem from="1677656161980" duration="2670000" />
+      <workItem from="1677721218844" duration="12137000" />
+      <workItem from="1677769075172" duration="18000" />
+      <workItem from="1677769668360" duration="203000" />
+      <workItem from="1677770205271" duration="53000" />
+      <workItem from="1678152664514" duration="15171000" />
+      <workItem from="1678843216724" duration="15628000" />
+      <workItem from="1679818114961" duration="784000" />
+      <workItem from="1679885151921" duration="15561000" />
+      <workItem from="1680160748260" duration="1045000" />
+      <workItem from="1680226603087" duration="12916000" />
+      <workItem from="1681292144108" duration="628000" />
+      <workItem from="1684769510916" duration="1716000" />
+      <workItem from="1685345256771" duration="3131000" />
+      <workItem from="1685414711008" duration="6642000" />
+      <workItem from="1685667506093" duration="10603000" />
+      <workItem from="1686193248750" duration="1741000" />
+      <workItem from="1686538580263" duration="626000" />
+      <workItem from="1686553646408" duration="44000" />
+      <workItem from="1686561939788" duration="2805000" />
+      <workItem from="1686625808514" duration="1857000" />
+      <workItem from="1687881358840" duration="5044000" />
+      <workItem from="1688002717801" duration="1924000" />
+      <workItem from="1688005752644" duration="3053000" />
+      <workItem from="1688347378571" duration="4568000" />
+      <workItem from="1689605218790" duration="1892000" />
+      <workItem from="1693483220962" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;增加git/打tag文档&quot;">
       <created>1672971798820</created>
@@ -263,41 +570,89 @@
       <option name="project" value="LOCAL" />
       <updated>1672971798820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="python基础">
+      <created>1675930032073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675930032073</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;这次更新太多（map\interview）&quot;">
+      <created>1678331943680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678331943680</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;python大全/python基础/面向对象&quot;">
+      <created>1680161132203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680161132203</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;python大全/python基础/面向对象&quot;">
+      <created>1680231824927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680231824927</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;python大全/python基础/面向对象&quot;">
+      <created>1680231967386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680231967386</updated>
+    </task>
+    <task id="LOCAL-00007" summary="MxShop-商品分类CURD&#10;Bookmanage-CURD操作&#10;LoginPro-登陆系统&#10;算法&#10;网络安全">
+      <created>1686625400929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686625400929</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23305000" />
+    <option name="totallyTimeSpent" value="159398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17271408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16593887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42328042" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32539684" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41269842" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.505291" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.43386245" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32936507" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36243385" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.41402116" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.5978836" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32936507" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4991119" weight="0.62882096" />
       <window_info anchor="right" id="Database" order="4" weight="0.32946298" />
+      <window_info anchor="right" id="aiXcoder" order="5" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="6" sideWeight="0.5008881" side_tool="true" weight="0.5043541" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.3984035" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.lua" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -341,249 +696,369 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;增加git/打tag文档&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;增加git/打tag文档&quot;" />
+    <MESSAGE value="python基础" />
+    <MESSAGE value="&quot;这次更新太多（map\interview）&quot;" />
+    <MESSAGE value="&quot;python大全/python基础/面向对象&quot;" />
+    <MESSAGE value="MxShop-商品分类CURD&#10;Bookmanage-CURD操作&#10;LoginPro-登陆系统&#10;算法&#10;网络安全" />
+    <option name="LAST_COMMIT_MESSAGE" value="MxShop-商品分类CURD&#10;Bookmanage-CURD操作&#10;LoginPro-登陆系统&#10;算法&#10;网络安全" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/大数据/Pandas-Pro/pandas-DateFrame.ipynb</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pypro$_.coverage" NAME="贪心算法-找零 Coverage Results" MODIFIED="1688348657063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/基础算法" />
+    <SUITE FILE_PATH="coverage/Pypro$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1688005983963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/Leetcode刷题" />
+    <SUITE FILE_PATH="coverage/Pypro$views.coverage" NAME="views Coverage Results" MODIFIED="1678172469486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro/PerfectCRM/chat" />
+    <SUITE FILE_PATH="coverage/Pypro$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1688006203152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试" />
     <SUITE FILE_PATH="coverage/Pypro$manage.coverage" NAME="manage Coverage Results" MODIFIED="1673598216394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro/LoginPro" />
+    <SUITE FILE_PATH="coverage/Pypro$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1679557279292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/图解算法" />
+    <SUITE FILE_PATH="coverage/Pypro$python_.coverage" NAME="python-面向对象 Coverage Results" MODIFIED="1680160569559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python大全/python基础" />
     <SUITE FILE_PATH="coverage/Pypro$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1673005371978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试" />
+    <SUITE FILE_PATH="coverage/Pypro$.coverage" NAME="链表 Coverage Results" MODIFIED="1680229742522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/图解算法" />
+    <SUITE FILE_PATH="coverage/Pypro$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1680524522552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel" />
+    <SUITE FILE_PATH="coverage/Pypro$test.coverage" NAME="test Coverage Results" MODIFIED="1687931518655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/Pypro$demo.coverage" NAME="demo Coverage Results" MODIFIED="1679387700621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/面试/第二部分 网络编程和并发（34题）.py">
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/StudManage/studcurd/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="76" column="21" selection-start-column="2" selection-end-line="76" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/第四部分 前端、框架和其他（155题）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/1.表结构语句​​​​​​​.py" />
-    <entry file="file://$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/2.题目（无答案，答案在最后）">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/4.自己做的答案">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="179" column="4" selection-start-line="179" selection-start-column="4" selection-end-line="179" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/3.标准答案">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10224">
-          <caret line="284" column="60" selection-start-line="284" selection-start-column="60" selection-end-line="284" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/1.表结构语句​​​​​​​">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3636">
-          <caret line="101" column="27" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/反射.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/configparser模块/test.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/configparser模块/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/configparser模块/configparser模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/quene模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/subprocess模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/lua语言基础/菜鸟练习.py" />
-    <entry file="file://$PROJECT_DIR$/Python基础/lua语言基础/菜鸟练习.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="151" column="22" selection-start-line="151" selection-start-column="22" selection-end-line="151" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/lua语言基础/中阶练习.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="118" column="16" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/linux基础/Linux命令大全">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/Git基础/aaa.txt" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/Threading模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4386">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/第三部分 数据库和缓存（46题）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/第一部分 Python基础篇（80题）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/第三方模块/argparse模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/冒泡算法.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/快排.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/htmlpro/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/docker基础/docker命令大全">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/二分.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python基础/python实现JWT加密.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#1970#1980#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/LoginPro/LoginPro/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/LoginPro/login/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="27" />
-        </state>
+        <state relative-caret-position="-246" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/Django-Form表单.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="216">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Linux/Git基础/拉取远端代码到本地&amp;回退版本">
+    <entry file="file://$PROJECT_DIR$/Python大全/python基础/python-装饰器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="3132">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Linux/Git基础/打tag">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="540">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/goods/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="6" selection-end-line="151" selection-end-column="28" />
+          <folding>
+            <element signature="e#40#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/trade/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="17" column="6" selection-end-line="96" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/user_operation/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="14" column="6" selection-end-line="74" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/BookManage/app01/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/BookManage/CURD/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-443" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/goods/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/goods/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-407" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/goods/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#24#62#0" expanded="true" />
+            <element signature="e#421#441#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/goods/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#1898#2074#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/BookManage/CURD/serializer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/goods/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/goods/view_base.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/BookManage/CURD/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#26#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/rest_framework/authtoken/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="107" column="16" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/utils/permissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="19" />
+          <folding>
+            <element signature="e#121#665#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/MxShop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+          <folding>
+            <element signature="e#39#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/users/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/django/contrib/auth/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4788">
+          <caret line="144" column="4" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/Django基础/MxShop-master/apps/users/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+          <folding>
+            <element signature="e#45#54#0" expanded="true" />
+            <element signature="e#388#1111#0" />
+            <element signature="e#1175#1298#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python大全/python基础/python-迭代器和生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/基础算法/二分.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python大全/python基础/python-面向对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8568">
+          <caret line="238" column="12" selection-start-line="238" selection-start-column="12" selection-end-line="238" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python大全/python基础/python实现JWT加密.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python大全/python基础/反射.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python大全/python基础/python-文件操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python大全/python基础/python-数据类型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/第一部分 Python基础篇（80题）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4068">
+          <caret line="113" column="10" selection-start-line="113" selection-start-column="10" selection-end-line="113" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linux/docker基础/docker命令大全">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python大全/python进阶/python-魔法方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/adf.py" />
+    <entry file="file://$PROJECT_DIR$/面试/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/Leetcode刷题/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/基础算法/贪心算法-找零.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/基础算法/贪心算法.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/基础算法/堆栈&amp;队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="129" column="25" selection-start-line="129" selection-start-column="25" selection-end-line="129" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/2.题目（无答案，答案在最后）">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/1.表结构语句​​​​​​​">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dbs/MysqlDb/sql操作40题/3.标准答案">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="209" column="33" lean-forward="true" selection-start-line="209" selection-start-column="33" selection-end-line="209" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/面试遇见的题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大数据/Pandas-Pro/pandas-DateFrame.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大数据/Pandas-Pro/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="e#25#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
