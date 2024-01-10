@@ -543,7 +543,7 @@
       <workItem from="1693483220962" duration="267000" />
       <workItem from="1694484852610" duration="632000" />
       <workItem from="1694488977471" duration="2778000" />
-      <workItem from="1704878319602" duration="606000" />
+      <workItem from="1704878319602" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;增加git/打tag文档&quot;">
       <created>1672971798820</created>
@@ -594,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1686625400929</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="笔记">
+      <option name="closed" value="true" />
+      <created>1704879109999</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704879109999</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -667,7 +675,8 @@
     <MESSAGE value="&quot;这次更新太多（map\interview）&quot;" />
     <MESSAGE value="&quot;python大全/python基础/面向对象&quot;" />
     <MESSAGE value="MxShop-商品分类CURD&#10;Bookmanage-CURD操作&#10;LoginPro-登陆系统&#10;算法&#10;网络安全" />
-    <option name="LAST_COMMIT_MESSAGE" value="MxShop-商品分类CURD&#10;Bookmanage-CURD操作&#10;LoginPro-登陆系统&#10;算法&#10;网络安全" />
+    <MESSAGE value="笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="笔记" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
