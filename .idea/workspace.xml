@@ -2,41 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf5b457-b632-47ea-952c-be44cc30531b" name="Default Changelist" comment="&quot;python大全/python基础/面向对象&quot;">
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/Cartopy-0.21.1.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/test8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python大全/python基础/python-作用域.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大数据/Numpy-Pro/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大数据/Pandas-Pro/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大数据/Pandas-Pro/pandas-DateFrame.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大数据/Pandas-Pro/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大数据/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/Leetcode刷题/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/基础算法/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/基础算法/贪心算法-找零.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/面试遇见的题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dbs/MysqlDb/SQL语法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dbs/MysqlDb/笔记" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Pypro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pypro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/MxShop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/MxShop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/MxShop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/MxShop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/goods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/goods/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/user_operation/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/user_operation/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/apps/users/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/MxShop/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/grid_pic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/grid_pic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/merged_result/merge_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/merged_result/merge_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/二分.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/基础算法/二分.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/冒泡算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/基础算法/冒泡算法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/堆栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/基础算法/堆栈&amp;队列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/快排.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/基础算法/快排.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/贪心算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/基础算法/贪心算法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/面试最经典题.py" beforeDir="false" afterPath="$PROJECT_DIR$/面试/面试最经典题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python大全/python基础/反射.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python大全/python基础/反射.py" afterDir="false" />
     </list>
     <list id="7ccc429e-a15e-401e-949f-2fdc6796452f" name="&quot;python大全/python基础/面向对象&quot;" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,36 +33,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/大数据/Pandas-Pro/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding>
-                <element signature="e#25#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/大数据/Pandas-Pro/pandas-DateFrame.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -103,6 +47,17 @@
       <find>debug</find>
       <find>pollu</find>
     </findStrings>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -165,10 +120,18 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectId" id="2VHExR5Z1OvOfCpIYR9g0DQnbg0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -208,19 +171,31 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="DjangoTemplate" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Backend/DjangoPro/Django基础" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "ofdev",
+    "last_opened_file_path": "D:/JKPro/JK-test/Pypro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Backend/DjangoPro/Django基础" />
@@ -237,21 +212,10 @@
       <recent name="$PROJECT_DIR$/Python大全/python基础" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Python.贪心算法-找零">
     <configuration name="贪心算法-找零" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pypro" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -274,6 +238,7 @@
     </configuration>
     <configuration name="面试最经典题" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pypro" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -340,6 +305,7 @@
     </configuration>
     <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pypro" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -362,6 +328,7 @@
     </configuration>
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pypro" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -384,6 +351,7 @@
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Pypro" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -406,6 +374,7 @@
     </configuration>
     <configuration name="python-装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pypro" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -450,6 +419,7 @@
     </configuration>
     <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pypro" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -472,6 +442,7 @@
     </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pypro" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -502,6 +473,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -562,6 +541,9 @@
       <workItem from="1688347378571" duration="4568000" />
       <workItem from="1689605218790" duration="1892000" />
       <workItem from="1693483220962" duration="267000" />
+      <workItem from="1694484852610" duration="632000" />
+      <workItem from="1694488977471" duration="2778000" />
+      <workItem from="1704878319602" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;增加git/打tag文档&quot;">
       <created>1672971798820</created>
@@ -649,36 +631,12 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.lua" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -689,6 +647,15 @@
         <entry key="User">
           <value>
             <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
           </value>
         </entry>
       </map>
@@ -714,18 +681,18 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Pypro$_.coverage" NAME="贪心算法-找零 Coverage Results" MODIFIED="1688348657063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/基础算法" />
-    <SUITE FILE_PATH="coverage/Pypro$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1688005983963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/Leetcode刷题" />
-    <SUITE FILE_PATH="coverage/Pypro$views.coverage" NAME="views Coverage Results" MODIFIED="1678172469486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro/PerfectCRM/chat" />
     <SUITE FILE_PATH="coverage/Pypro$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1688006203152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试" />
-    <SUITE FILE_PATH="coverage/Pypro$manage.coverage" NAME="manage Coverage Results" MODIFIED="1673598216394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro/LoginPro" />
-    <SUITE FILE_PATH="coverage/Pypro$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1679557279292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/图解算法" />
     <SUITE FILE_PATH="coverage/Pypro$python_.coverage" NAME="python-面向对象 Coverage Results" MODIFIED="1680160569559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python大全/python基础" />
-    <SUITE FILE_PATH="coverage/Pypro$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1673005371978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试" />
-    <SUITE FILE_PATH="coverage/Pypro$.coverage" NAME="链表 Coverage Results" MODIFIED="1680229742522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/图解算法" />
-    <SUITE FILE_PATH="coverage/Pypro$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1680524522552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel" />
-    <SUITE FILE_PATH="coverage/Pypro$test.coverage" NAME="test Coverage Results" MODIFIED="1687931518655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/Pypro$manage.coverage" NAME="manage Coverage Results" MODIFIED="1673598216394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro/LoginPro" />
     <SUITE FILE_PATH="coverage/Pypro$demo.coverage" NAME="demo Coverage Results" MODIFIED="1679387700621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro" />
+    <SUITE FILE_PATH="coverage/Pypro$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1688005983963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/Leetcode刷题" />
+    <SUITE FILE_PATH="coverage/Pypro$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1679557279292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/图解算法" />
+    <SUITE FILE_PATH="coverage/Pypro$.coverage" NAME="链表 Coverage Results" MODIFIED="1680229742522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/图解算法" />
+    <SUITE FILE_PATH="coverage/Pypro$_.coverage" NAME="贪心算法-找零 Coverage Results" MODIFIED="1688348657063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法/基础算法" />
+    <SUITE FILE_PATH="coverage/Pypro$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1673005371978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试" />
+    <SUITE FILE_PATH="coverage/Pypro$test.coverage" NAME="test Coverage Results" MODIFIED="1687931518655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/Pypro$views.coverage" NAME="views Coverage Results" MODIFIED="1678172469486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro/PerfectCRM/chat" />
+    <SUITE FILE_PATH="coverage/Pypro$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1680524522552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend/DjangoPro/PollutantModel" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Backend/DjangoPro/StudManage/studcurd/urls.py">

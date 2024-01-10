@@ -8,7 +8,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Backend/DjangoPro/MyChatGtp/chatgtpvenv" />
       <excludeFolder url="file://$MODULE_DIR$/Backend/DjangoPro/TestPro/Testvenv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6 virtualenv at D:\JKPro\venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">

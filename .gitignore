@@ -7,5 +7,8 @@ __pycache__
 *venv
 db.sqlite3
 .DS_Store
-.xml
+*.xml
+*.aml
 distribution_map/
+*.iml
+.gitignore
