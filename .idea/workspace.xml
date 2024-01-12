@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf5b457-b632-47ea-952c-be44cc30531b" name="Default Changelist" comment="&quot;python大全/python基础/面向对象&quot;">
-      <change afterPath="$PROJECT_DIR$/Dbs/MysqlDb/SQL语法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dbs/MysqlDb/笔记" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pypro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pypro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python大全/python基础/反射.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python大全/python基础/反射.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dbs/MysqlDb/SQL语法.py" beforeDir="false" />
     </list>
     <list id="7ccc429e-a15e-401e-949f-2fdc6796452f" name="&quot;python大全/python基础/面向对象&quot;" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,10 +121,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
@@ -181,7 +179,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "ofdev",
-    "last_opened_file_path": "D:/JKPro/JK-test/Pypro",
+    "last_opened_file_path": "D:/JKPro/JK-test/AI-Image/stable-diffusion-webui-master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -543,7 +541,7 @@
       <workItem from="1693483220962" duration="267000" />
       <workItem from="1694484852610" duration="632000" />
       <workItem from="1694488977471" duration="2778000" />
-      <workItem from="1704878319602" duration="1211000" />
+      <workItem from="1704878319602" duration="2052000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;增加git/打tag文档&quot;">
       <created>1672971798820</created>
@@ -602,7 +600,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704879109999</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="岗位技能描述">
+      <option name="closed" value="true" />
+      <created>1704879995404</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704879995404</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -676,7 +682,8 @@
     <MESSAGE value="&quot;python大全/python基础/面向对象&quot;" />
     <MESSAGE value="MxShop-商品分类CURD&#10;Bookmanage-CURD操作&#10;LoginPro-登陆系统&#10;算法&#10;网络安全" />
     <MESSAGE value="笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="笔记" />
+    <MESSAGE value="岗位技能描述" />
+    <option name="LAST_COMMIT_MESSAGE" value="岗位技能描述" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
