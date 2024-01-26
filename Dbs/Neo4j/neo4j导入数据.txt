@@ -1,0 +1,21 @@
+# 停止Neo4j服务
+docker stop neo4j
+
+# 重置数据库
+sudo rm -rf $HOME/neo4j/data/databases/neo4j
+sudo rm -rf $HOME/neo4j/data/transactions/neo4j
+
+# 导入数据
+docker run -ti --rm \
+-v $HOME/neo4j/data:/data \
+-v $HOME/neo4j/import:/import \
+neo4j:4.0 \
+neo4j-admin import --database neo4j --skip-duplicate-nodes \
+--nodes /import/cvd-node-type.csv \
+--nodes /import/cvd-node-idc.csv \
+--nodes /import/cvd-node-doc.csv \
+--relationships /import/cvd-rel-type-idc.csv \
+--relationships /import/cvd-rel-doc-idc.csv
+
+# 启动Neo4j
+docker start neo4j
