@@ -1,0 +1,3 @@
+查看所有分支（本地+远端）： git branch -a
+获取所有分支的更新： git fetch
+切换到某个commit版本，执行代码：  git reset --hard xxxxx（commit里版本号） 修改完代码，重新切回去

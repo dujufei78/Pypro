@@ -1,0 +1,4 @@
+远端develop代码强制覆盖本地代码
+git fetch --all
+git reset --hard origin/develop
+git pull
