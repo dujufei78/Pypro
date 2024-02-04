@@ -8,7 +8,6 @@ docker images， 查看所有本地主机上的镜像
 docker search, 搜索镜像
 
 
-
 启动&停止docker：
 docker start id或容器名
 docker restart id（不管容器是否启动，直接重启容器）
@@ -28,3 +27,11 @@ docker rm container1 container2 # 删除多个容器，删除前确保容器已�
 构建镜像：
 第一步：利用目录下dockerfile构建镜像：docker build -t cent:1.0 .
 第二步：
+
+
+docker里修改代码流程
+进入docker：docker exec -it zbank-argus-rcfe-pypb bash
+改代码操作
+重启docker：docker restart zbank-argus-rcfe-pypb
+推出docker：exit
+docker日志：docker logs -t zbank-argus-rcfe-pypb
