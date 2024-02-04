@@ -1,0 +1,31 @@
+打so步骤：
+第一步：新建虚拟机，使用pop为iso文件
+
+第二部：Ubuntu安装VMware tools、安装docker
+1、Ubuntu20.04安装VMware Tools
+sudo apt install open-vm-tools-desktop -y
+sudo reboot
+
+2、Docker自动安装脚本
+sudo apt update
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh ./get-docker.sh
+
+第三步：赋权当前用户
+sudo groupadd docker
+sudo usermod -aG docker $USER
+sudo chown 777 /var/run/docker.sock
+sudo service docker restart
+
+或者（在设置root密码的基础上）
+su root
+sudo groupadd docker               #添加用户组
+sudo gpasswd -a username docker    #将当前用户添加至用户组
+newgrp docker                      #更新用户组
+
+第四步：打so
+新建空白文件夹，将目标分支的代码拷贝到里边，删除argus-rcfe-pypb/output下所有文件（之前打的.so文件）；
+切到argus-rcfe-pypb目录下，执行：bash build_so.sh
+第五步：将虚拟机里的/output下的所有so文件拷贝到项目里，进行代码提交
+打so完毕！！！！！
+

@@ -7,6 +7,8 @@ docker version, 显示docker版本
 docker images， 查看所有本地主机上的镜像
 docker search, 搜索镜像
 
+
+
 启动&停止docker：
 docker start id或容器名
 docker restart id（不管容器是否启动，直接重启容器）
@@ -18,4 +20,11 @@ docker kill id或name （直接关闭容器）
 docker exec -it id或name bash
 docker attach id或name（此方式有些操作可能会卡死）
 
-删除容器实例：docker rm id或name
+删除容器实例：
+docker rm id或name
+docker rm container1 container2 # 删除多个容器，删除前确保容器已经停止
+
+
+构建镜像：
+第一步：利用目录下dockerfile构建镜像：docker build -t cent:1.0 .
+第二步：

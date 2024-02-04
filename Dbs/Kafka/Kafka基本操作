@@ -1,0 +1,11 @@
+一. windows安装kafka
+https://www.cnblogs.com/ERROR404Notfound/p/17508250.html
+
+二. windows启动kafka
+1.启动zookeeper
+打开cmd，进入kafka安装目录，执行：
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
+2.启动kafka
+再打开一个cmd，进入kafka安装目录，执行：
+.\bin\windows\kafka-server-start.bat .\config\server.properties

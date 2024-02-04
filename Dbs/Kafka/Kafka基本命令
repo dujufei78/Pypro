@@ -1,0 +1,28 @@
+首先，切到kafka目录 cd /home/q/kafka
+
+linux创建kafka Topic命令:
+bin/kafka-topics.sh --create --bootstrap-server 11.113.208.137:9092,11.113.208.104:9092 --replication-factor 1 --partitions 3 --topic cas_feature_derivative_Info_to
+
+查看kafka所有topic命令：
+bin/kafka-topics.sh --list --bootstrap-server 11.113.208.137:9092,11.113.208.104:9092
+
+查看某个topic里的数据结构：
+bin/kafka-console-consumer.sh --bootstrap-server 11.113.208.137:9092,11.113.208.104:9092 --topic zbank_offline_cas_adjust_freeze_warn_topic --from-beginning
+
+
+
+# kafka-console-consumer.sh
+#!/bin/bash
+if [ "x$KAFKA_HEAP_OPTS" = "x" ]; then
+    export KAFKA_HEAP_OPTS="-Xmx512M"
+fi
+exec $(dirname $0)/kafka-run-class.sh kafka.tools.ConsoleConsumer "$@"
+
+
+
+# kafka-console-producer.sh
+#!/bin/bash
+if [ "x$KAFKA_HEAP_OPTS" = "x" ]; then
+    export KAFKA_HEAP_OPTS="-Xmx512M"
+fi
+exec $(dirname $0)/kafka-run-class.sh kafka.tools.ConsoleProducer "$@"

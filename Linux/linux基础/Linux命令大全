@@ -7,17 +7,7 @@ find / -type f -name "*.py" | xargs grep "stg-sysoos-fcloud.paic.com.cn"
 grep -r oos-stgmofcloud.paic.com.cn *
 grep "oos-stgmofcloud.paic.com.cn" */*.conf
 
-安装opensry
-tar -zxvf openresty-1.15.8.2.tar.gz
-cd openresty-1.15.8.2
-./configure
-make
-make install
 
-nginx启停:
-启动：/wls/openresty/nginx/sbin/nginx -c/wls/openresty/nginx/conf/nginx.conf
-停止：/usr/sbin/nginx -s stop
-nginx位置： /wls/openresty/nginx/sbin/nginx
 
 查看80端口被什么进程占用：netstat –ltunp
 
