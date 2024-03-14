@@ -1,0 +1,2 @@
+源文件名与类名必须相同
+所有java程序由public static void main(String[] args)方法开始执行
