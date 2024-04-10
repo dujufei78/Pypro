@@ -9,7 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Backend/DjangoPro/TestPro/Testvenv" />
       <excludeFolder url="file://$MODULE_DIR$/pyprovenv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6 virtualenv at D:\JKPro\venv" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="pyvenv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
