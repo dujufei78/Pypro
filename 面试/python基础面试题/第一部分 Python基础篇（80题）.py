@@ -87,8 +87,6 @@
 #
 # 19、xrange和range的区别？
 #
-# 20、文件操作时：xreadlines和readlines的区别？
-#
 # 21、列举布尔值为False的常见值？
 #
 # 22、字符串、列表、元组、字典每个常用的5个方法？
@@ -100,8 +98,6 @@
 # 25、*arg和 ** kwarg作用
 #
 # 26、is和 == 的区别
-#
-# 27、简述Python的深浅拷贝以及应用场景？
 #
 # 28、Python垃圾回收机制？
 #
@@ -225,48 +221,7 @@
 # 73、isinstance作用以及应用场景？
 #
 # 74、写代码并实现：
-#
-# Given
-# an
-# array
-# of
-# integers,
-# return indices
-# of
-# the
-# two
-# numbers
-# such
-# that
-# they
-# add
-# up
-# to
-# a
-# specific
-# target.You
-# may
-# assume
-# that
-# each
-# input
-# would
-# have
-# exactly
-# one
-# solution, and you
-# may
-# not use
-# the
-# same
-# element
-# twice.
-# Example:
-# Given
-# nums = [2, 7, 11, 15], target = 9,
-# Because
-# nums[0] + nums[1] = 2 + 7 = 9,
-# return [0, 1]
+
 # 75、json序列化时，可以处理的数据类型有哪些？如何定制支持datetime类型？
 #
 # 76、json序列化时，默认遇到中文会转换成unicode，如果想要保留中文怎么办？
