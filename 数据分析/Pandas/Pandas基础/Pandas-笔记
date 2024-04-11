@@ -38,3 +38,6 @@ None
         Salary: 球员薪水，有446个非空值，数据类型为float64。
 
     Memory usage: 显示DataFrame占用的内存大小，这在大型数据集中很有用。
+
+2.loc和iloc
+loc为名称索引，iloc为数字索引
