@@ -1,0 +1,7 @@
+1.虚拟机pop里安装linux的梯子
+
+https://github.com/lantongxue/clash_for_windows_pkg/releases中
+下载Clash.for.Windows-0.20.39-x64-linux.deb
+
+
+2.在网络里设置Socks 主机(S)：  127.0.0.1   8088
